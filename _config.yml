@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://femtotrader.github.io" # the base hostname & protocol for your site
 twitter_username: FemtoTrader
 github_username:  femtotrader
-linkedin_url: https://goo.gl/sAe46D
+linkedin_url: http://bit.ly/33fWqHt
 
 # Build settings
 markdown: kramdown
